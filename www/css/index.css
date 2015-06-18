@@ -40,8 +40,9 @@ body {
 
 .footer{
     margin: 0 0 2% 0;
-    height: 10%;
+    height: 30%;
     width: 100%;
+    min-height: 30%;
     min-width: 100%;
     color: #16a085;
     border-color: #16a085;
