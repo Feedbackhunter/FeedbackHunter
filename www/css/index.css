@@ -110,9 +110,9 @@ body {
     display: block;
 }
 .botao{
-    height: 50px;
-    max-height:50px;
-    min-height: 50px ;
+    height: 40px;
+    max-height:40px;
+    min-height: 40px ;
     width: 97%;
     min-width: 97%;
     max-width: 97%;
