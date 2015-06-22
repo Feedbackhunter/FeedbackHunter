@@ -22,7 +22,7 @@
 html {
     height: 100%;
     min-height: 320px;
-    min-width: 140px;
+    min-width: 240px;
 }
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
@@ -33,7 +33,7 @@ body {
     font-size:18px;
     height:100%;
     margin:0px;
-        padding:0px;
+    padding:0;
     width:100%;
     min-height: 100%;
     max-height: 100%;
@@ -50,7 +50,6 @@ body {
     min-width: 100%;
     color: #16a085;
     background-color: #16a085;
-    border-radius: 0;
     bottom:0;
     left:0;
 }
@@ -62,9 +61,7 @@ body {
     min-width: 100%;
     color: #16a085;
     background-color: #16a085;
-    border-radius: 0;
     top:0;
-    left:0;
 }
 .shadow{
     margin: 0 0 0 0;
@@ -77,8 +74,8 @@ body {
 }
 .center{
 
-    height: 87.4%;
-    min-height: 87.4;
+    height: 88%;
+    min-height: 88%;
     width: 100%;
     min-width: 100%;
 }
