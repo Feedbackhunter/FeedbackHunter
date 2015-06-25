@@ -113,6 +113,57 @@ body {
     font-weight: 600;
     box-shadow: none;
 }
+.botao1{
+    height: 40px;
+    max-height:40px;
+    min-height: 40px ;
+    width: 97%;
+    min-width: 97%;
+    max-width: 97%;
+    margin: 0 1.5% 0 1.5%;
+    background-color: #16a085;
+    border-radius: 7.5px 7.5px 0 0;
+    border-color: #16a085;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: none;
+}
+.botao2{
+    height: 40px;
+    max-height:40px;
+    min-height: 40px ;
+    width: 97%;
+    min-width: 97%;
+    max-width: 97%;
+    margin: 0 1.5% 0 1.5%;
+    background-color: #16a085;
+    border-radius: 0;
+    border-color: #16a085;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: none;
+}
+.botao3{
+    height: 40px;
+    max-height:40px;
+    min-height: 40px ;
+    width: 97%;
+    min-width: 97%;
+    max-width: 97%;
+    margin: 0 1.5% 0 1.5%;
+    background-color: #16a085;
+    border-radius: 0 0 7.5px 7.5px;
+    border-color: #16a085;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: none;
+}
 .texto{
     width: 97%;
     min-width: 97%;
